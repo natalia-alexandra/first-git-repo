@@ -52,7 +52,7 @@ ssh-add .ssh/id_rsa
 give password (that you created at the beginning when generating ssh key)
 
 
-7. That’s it :-) You have done it.
+7. That’s it  :smile: You have done it.
 
 8. You can test if everything work well.
 
