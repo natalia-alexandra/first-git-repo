@@ -27,7 +27,6 @@ command             | description
 **rmdir** folderName  | Remove directory
 **cd** folderName   | Change directory
 **cd ..**           | Go up one level directory
-|
 **tree**            | Lists all files or directories graphically in the current directory
 
 ---
@@ -41,14 +40,12 @@ command             | description
 **mv** file1 file2      | Move file1 to file2
 **rm** fileName         | Delete file
 **rm -ri** folder        | Delete folder with each file in (always use **-i** for more safety)
-| 
 **cat** file1 file2     | Concat​ enate files and output
 **file** file1          | Get type of file1
 **less** file1          | View and paginate file1 (in the command prompt)
 **more** file1          | View and paginate file1
 **head** file1          | Show first 10 lines of file1
 **tail** file1          | Show last 10 lines of file1
-|
 **echo**                | Output status text to the screen or a file
 **nano** fileName       | simple terminal-based text editor
 **code** fileName       | Open file1 in editor e.g. Visual Code Studio
